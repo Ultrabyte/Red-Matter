@@ -1,4 +1,6 @@
 Red-Matter
 ==========
 
-A minecraft mod based around the power of magic and tech!
+Red Matter will be a MOD that seems to be a mix of Blood magic, Equivalent exchange, Thermal expansion and Ars magica. The point of the mod will be to collect Red matter by sacrificing any type of normal matter in your minecraft world for example dirt, when sacrificing a item a bar will appear showing you your red matter each item will have a different amount depending on its rarity. you can get three tiers of red matter. the higher you get the easier your red matter collecting will go.
+
+To begin with this mod you will first need to create a simple red energy power source to begin creating machines and ways to make Red Matter. you need to make a redstone generator which generates Redtricity using the power of redstone, But be warned the machine is unstable and will explode if it reaches a certain temperature. When the machine is complete you need some red cables to transport your power. the next machine will be a Condenser. The Condenser will condense your matter into Red matter and store it in its buffer to extract the energy you need to add a transmitter upgrade the upgrade automatically drains the red matter out of the buffer and into your player.At higher stages of the mod you will be able to make spells and more machines eventually even a handgun that sucks blocks into it to create Red matter there will even be a Laser that causes mass destruction to gather more Red matter.
